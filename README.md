@@ -3,8 +3,8 @@
 **Paysera driver for the Omnipay payment processing library**
 
 [![Build Status](https://travis-ci.org/unisolutions/omnipay-paysera.png?branch=master)](https://travis-ci.org/unisolutions/omnipay-paysera)
-[![Latest Stable Version](https://poser.pugx.org/omnipay/paysera/version.png)](https://packagist.org/packages/omnipay/paysera)
-[![Total Downloads](https://poser.pugx.org/omnipay/paysera/d/total.png)](https://packagist.org/packages/omnipay/paysera)
+[![Latest Stable Version](https://poser.pugx.org/unisolutions/omnipay-paysera/v/stable)](https://packagist.org/packages/unisolutions/omnipay-paysera)
+[![Total Downloads](https://poser.pugx.org/unisolutions/omnipay-paysera/downloads)](https://packagist.org/packages/unisolutions/omnipay-paysera)
 
 [Omnipay](https://github.com/thephpleague/omnipay) is a framework agnostic, multi-gateway payment
 processing library for PHP 5.3+. This package implements Paysera support for Omnipay.
