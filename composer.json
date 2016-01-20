@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/paysera",
+    "name": "unisolutions/omnipay-paysera",
     "type": "library",
     "description": "Paysera driver for the Omnipay payment processing library",
     "keywords": [
