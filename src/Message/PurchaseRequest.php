@@ -115,9 +115,9 @@ class PurchaseRequest extends AbstractRequest
         return $data;
     }
 
-    public function send()
+    public function sendData($data)
     {
-        return new Response($this, $this->getData(), $this->httpClient, true);
+        return new Response($this, $data, $this->httpClient, true);
     }
 
 }
