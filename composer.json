@@ -1,0 +1,38 @@
+{
+    "name": "omnipay/paysera",
+    "type": "library",
+    "description": "Paysera driver for the Omnipay payment processing library",
+    "keywords": [
+        "gateway",
+        "merchant",
+        "omnipay",
+        "pay",
+        "payment",
+        "purchase",
+        "paysera",
+        "webtopay",
+        "mokejimai"
+    ],
+    "homepage": "https://github.com/unisolutions/omnipay-paysera",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "UAB UNISOLUTIONS",
+            "email": "support@unisolutions.eu"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Omnipay\\Paysera\\" : "src/" }
+    },
+    "require": {
+        "omnipay/common": "~2.0"
+    },
+    "require-dev": {
+        "omnipay/tests": "~2.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0.x-dev"
+        }
+    }
+}
