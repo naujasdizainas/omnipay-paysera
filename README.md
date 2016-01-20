@@ -17,7 +17,7 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "omnipay/paysera": "*"
+        "unisolutions/omnipay-paysera": "*"
     }
 }
 ```
