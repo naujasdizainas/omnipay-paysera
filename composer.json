@@ -1,24 +1,26 @@
 {
     "name": "omnipay/paysera",
     "type": "library",
-    "description": "Paysera driver for the Omnipay payment processing library",
+    "description": "Paysera gateway for Omnipay payment processing library",
     "keywords": [
         "gateway",
         "merchant",
         "omnipay",
         "pay",
         "payment",
-        "purchase",
         "paysera",
-        "webtopay",
-        "mokejimai"
+        "purchase"
     ],
     "homepage": "https://github.com/naujasdizainas/omnipay-paysera",
     "license": "MIT",
     "authors": [
         {
-            "name": "Etorona MB",
+            "name": "Naujasdizainas.com",
             "email": "info@naujasdizainas.com"
+        },
+        {
+            "name": "Omnipay Contributors",
+            "homepage": "https://github.com/naujasdizainas/omnipay-paysera/graphs/contributors"
         }
     ],
     "autoload": {
@@ -32,7 +34,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "2.0.x-dev"
+            "dev-master": "2.3.x-dev"
         }
     }
 }
