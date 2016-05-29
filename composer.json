@@ -1,5 +1,5 @@
 {
-    "name": "omnipay/paysera",
+    "name": "naujasdizainas/omnipay-paysera",
     "type": "library",
     "description": "Paysera gateway for Omnipay payment processing library",
     "keywords": [
