@@ -1,5 +1,5 @@
 {
-    "name": "unisolutions/omnipay-paysera",
+    "name": "omnipay/paysera",
     "type": "library",
     "description": "Paysera driver for the Omnipay payment processing library",
     "keywords": [
@@ -13,12 +13,12 @@
         "webtopay",
         "mokejimai"
     ],
-    "homepage": "https://github.com/unisolutions/omnipay-paysera",
+    "homepage": "https://github.com/naujasdizainas/omnipay-paysera",
     "license": "MIT",
     "authors": [
         {
-            "name": "UAB UNISOLUTIONS",
-            "email": "support@unisolutions.eu"
+            "name": "Etorona MB",
+            "email": "info@naujasdizainas.com"
         }
     ],
     "autoload": {
